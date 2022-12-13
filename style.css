@@ -1,0 +1,12 @@
+header{
+    border: solid black 1%;
+}
+body{
+    background-color: salmon;
+}
+banner{
+    background-color: goldenrod;
+}
+.hero image{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMIb5adDTV6Po-RQkdbvlSOME0MyWDkDerOXNgIuEPaUrDnG919Lqdg5_r_VfvkRfG3Y:https://publicdomainvectors.org/photos/remigho-like.png&usqp=CAU");
+}
