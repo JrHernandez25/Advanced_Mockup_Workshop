@@ -1,12 +1,64 @@
 header{
-    border: solid black 1%;
+    border: solid black 2px;
 }
 body{
-    background-color: salmon;
+    background-color: lightcyan;
 }
 banner{
-    background-color: goldenrod;
+    background-color: white;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 43%;
+    border: solid black 2px;
+    
 }
-.hero image{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMIb5adDTV6Po-RQkdbvlSOME0MyWDkDerOXNgIuEPaUrDnG919Lqdg5_r_VfvkRfG3Y:https://publicdomainvectors.org/photos/remigho-like.png&usqp=CAU");
+.hero-image{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Bf9WQs8OSG-QGflsGV5x_Bl4QRcV1tdnGq0cNmFsY09EZd09Ta9C9SC3xjo5NEK1i3A:https://upload.wikimedia.org/wikipedia/commons/0/0e/Mobilechallenge-4k-wallpaper-close-up-807598.jpg&usqp=CAU");
+    height: 350px;
+    width: 500px;
+    margin-left: 35%;
+}
+.hero-text{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 45%;
+    left: 39%;
+    font-size: xx-large;
+}
+#numb1{
+    border: solid black 2px;
+}
+#numb2{
+    border: solid black 2px;
+}
+nav ul li{
+    display: inline-block;
+    border: solid black 3px;
+}
+#numb4{
+    margin-left: 85%;
+}
+
+table{
+margin-left: 85%;
+border-spacing: 0px;
+margin-bottom: 1%;
+}
+td{
+    text-align: center
+    border solid black 1%;
+    font-size: large;
+    margin-left: 0px;
+}
+tr{
+    border: solid black 1%;
+    width: 10%;
+    margin: 0px;
+}
+dl{
+    font-size: larger;
+}
+h2{
+    font-size: large;
 }
